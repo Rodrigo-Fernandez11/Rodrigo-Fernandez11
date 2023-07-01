@@ -1,18 +1,20 @@
 # ¡Hola! 👋
 
-## Desarrollador Solidity y Full Stack JavaScript
+Desarrollador Full Stack JavaScript y Blockchain
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Rodrigo Peña Fernandez, un apasionado desarrollador Solidity y Full Stack con experiencia en el desarrollo web. Me dedico a crear soluciones innovadoras y escalables utilizando tecnologías modernas.
+¡Bienvenido/a a mi perfil de GitHub! Soy Rodrigo Peña Fernandez, un desarrollador Full Stack con experiencia en JavaScript y Blockchain, especializado en Solidity.
 
-## Sobre mí
+💼 Experiencia en desarrollo web con JavaScript, React, Node.js y más.
 
-Soy un programador proactivo y responsable, con habilidades para trabajar en equipo y adaptarme a diferentes entornos. Mi actitud de constante aprendizaje se refleja en mi participación en la hackathon de King of Devs, donde colaboré con programadores experimentados, y en los meetups presenciales y virtuales de la comunidad React.
+⛓️ Especializado en contratos inteligentes en Solidity para aplicaciones descentralizadas (dApps).
 
-Además, tuve el privilegio de formar parte de la beca de Google y Junior Achievement, donde aprendí marketing digital y habilidades blandas por parte de profesionales de Google.
+🌱 Apasionado por el aprendizaje y el crecimiento profesional en el ecosistema Blockchain.
 
-Mi objetivo es seguir creciendo profesionalmente en el desarrollo de aplicaciones web eficientes y atractivas, brindando una experiencia para el usuario. Estoy emocionado por la oportunidad de unirme a tu equipo y aplicar mi pasión por la tecnología para convertirme en un desarrollador web excepcional.
+💡 Pensamiento creativo y resolución de problemas en el desarrollo web y en contratos inteligentes.
 
-¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás una variedad de proyectos y contribuciones que reflejan mi amor por la codificación.
+👥 Trabajo en equipo y colaboración en proyectos ágiles.
+
+🎯 Orientación al usuario y experiencia de usuario en aplicaciones web y dApps.
 
 ## Tecnologías y herramientas
 
@@ -39,5 +41,3 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 - LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí mientras exploras mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
-
-¡Feliz codificación! 🚀
