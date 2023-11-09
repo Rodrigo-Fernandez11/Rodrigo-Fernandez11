@@ -1,24 +1,21 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Desarrollador Full Stack JavaScript y Blockchain
+Full Stack JavaScript and Blockchain Developer
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Rodrigo Peña Fernandez, un desarrollador Full Stack con experiencia en JavaScript y Blockchain, especializado en Solidity.
+Welcome to my GitHub profile! I'm Rodrigo Peña Fernandez, a Full Stack developer with experience in JavaScript and Blockchain.
 
-💼 Experiencia en desarrollo web con JavaScript, React, Node.js y más.
+💼 Experience in web development with JavaScript, React, Node.js, and more.
 
-⛓️ Especializado en contratos inteligentes en Solidity para aplicaciones descentralizadas (dApps).
+⛓️ Experience with Solidity smart contracts for decentralized applications (dApps).
 
-🌱 Apasionado por el aprendizaje y el crecimiento profesional en el ecosistema Blockchain.
+🌱 Passionate about learning and professional growth in software development.
 
-💡 Pensamiento creativo y resolución de problemas en el desarrollo web y en contratos inteligentes.
+💡 Creative thinking and problem-solving in web development and smart contracts.
 
-👥 Trabajo en equipo y colaboración en proyectos ágiles.
+🎯 User orientation and user experience in web applications and dApps.
 
-🎯 Orientación al usuario y experiencia de usuario en aplicaciones web y dApps.
-
-## Tecnologías y herramientas
-
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+# Technologies and Tools
+Here are some of the technologies and tools I work with:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
