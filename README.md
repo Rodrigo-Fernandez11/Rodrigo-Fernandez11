@@ -32,9 +32,9 @@ Here are some of the technologies and tools I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
 </p>
 
-## ¡Conéctate conmigo! 🤝
+## Connect with me!🤝
 
 - Twitter: [https://twitter.com/RodrigoPeaFern1](https://twitter.com/RodrigoPeaFern1)
 - LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí mientras exploras mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+¡Thanks for visiting my GitHub profile! I hope you find something interesting here as you explore my projects and contributions. If you have any questions or suggestions, feel free to contact me.
