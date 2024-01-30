@@ -1,40 +1,43 @@
-# Hello! 👋
+# ¡Hola! 👋
 
-Full Stack JavaScript and Blockchain Developer
+Soy Rodrigo Peña Fernandez, un desarrollador Full Stack especializado en JavaScript y Blockchain.
 
-Welcome to my GitHub profile! I'm Rodrigo Peña Fernandez, a Full Stack developer with experience in JavaScript and Blockchain.
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una mezcla de proyectos y contribuciones relacionadas con el desarrollo web y contratos inteligentes.
 
-💼 Experience in web development with JavaScript, React, Node.js, and more.
+## Sobre Mí
 
-⛓️ Experience with Solidity smart contracts for decentralized applications (dApps).
+- 💼 **Experiencia**: Desarrollo web con JavaScript, React, Node.js, y más.
+- ⛓️ **Blockchain**: Experiencia con contratos inteligentes en Solidity para aplicaciones descentralizadas (dApps).
+- 🌱 **Pasión**: Apasionado por aprender y crecer profesionalmente en el desarrollo de software.
+- 💡 **Pensamiento Creativo**: Resolución creativa de problemas en el desarrollo web y contratos inteligentes.
+- 🎯 **Enfoque**: Orientado al usuario y mejora de la experiencia en aplicaciones web y dApps.
 
-🌱 Passionate about learning and professional growth in software development.
+## Tecnologías y Herramientas
 
-💡 Creative thinking and problem-solving in web development and smart contracts.
-
-🎯 User orientation and user experience in web applications and dApps.
-
-# Technologies and Tools
-Here are some of the technologies and tools I work with:
+Aquí algunas de las tecnologías y herramientas con las que trabajo:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </p>
 
-## Connect with me!🤝
+## Actividad en GitHub
 
-- Twitter: [https://twitter.com/RodrigoPeaFern1](https://twitter.com/RodrigoPeaFern1)
-- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=rodrigopea&theme=github)
 
-¡Thanks for visiting my GitHub profile! I hope you find something interesting here as you explore my projects and contributions. If you have any questions or suggestions, feel free to contact me.
+## ¡Conéctate Conmigo! 🤝
+
+- Twitter: [![Twitter](https://img.shields.io/twitter/follow/RodrigoPeaFern1?style=social)](https://twitter.com/RodrigoPeaFern1)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/feed/)
+
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante mientras exploras mis proyectos y contribuciones. Si tienes preguntas o sugerencias, no dudes en contactarme. ¡Feliz codificación! 🚀
