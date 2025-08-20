@@ -56,7 +56,6 @@ Here are some of the technologies and tools I work with, organized by frontend a
 
 ## Connect With Me! 🤝
 
-- Twitter: [![Twitter](https://img.shields.io/twitter/follow/RodrigoPeaFern1?style=social)](https://twitter.com/RodrigoPeaFern1)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/feed/)
 
 Thanks for visiting my GitHub profile! I hope you find something interesting as you explore my projects and contributions. If you have any questions or suggestions, feel free to contact me. Happy coding! 🚀
